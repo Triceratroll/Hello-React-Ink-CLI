@@ -9,13 +9,13 @@ const ui = importJsx('./ui');
 
 const cli = meow(`
 	Usage
-	  $ Hello-React-Ink-CLI
+	  $ hello-react-ink-cli
 
 	Options
 		--name  Your name
 
 	Examples
-	  $ Hello-React-Ink-CLI --name=Jane
+	  $ hello-react-ink-cli --name=Jane
 	  Hello, Jane
 `);
 
